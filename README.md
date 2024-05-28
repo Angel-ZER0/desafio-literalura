@@ -8,6 +8,7 @@
     <li>Java 17: como lenguaje de programación principal</li>
     <li>Spring boot como framework y maven como gestor de dependencias</li>
     <li>Spring Data JPA</li>
+    <li>Hibernate</li>
     <li>Dependecia Jackson</li>
 </ul>
 
