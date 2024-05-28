@@ -11,8 +11,7 @@
     <li>Dependecia Jackson</li>
 </ul>
 
-<h2 style="text-align: center;">Funciones del programa<h2>
-
+<h2 style="text-align: center;">Funciones del programa</h2>
 <ol>
     <li>Consultar datos de la API de un libro, introduciendo el título del mismo, trayendo los datos del mismo, como el título, una lista de autores, los idiomas en los que está disponible el libro etc</li>
     <li>Traee una lista de libros de la API de determinado autor, introduciendo en nombre del mismo en la consola</li>
@@ -23,4 +22,4 @@
     <li>Mostrar una lista de los libros que están disponibles en algún idioma (se muestra una lista de los idiomas en los que se han almacenado libros)</li>
     <li>Mostrar cuantos libros hay disponibles en cada idioma en la base de datos</li>
     <li>Una lista de autores almacenados en la base de datos, que hayan estado vivos en determinado año</li>
-<ol>
+</ol>
